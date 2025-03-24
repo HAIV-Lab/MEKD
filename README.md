@@ -1,5 +1,22 @@
 # Aligning Logits Generatively for Principled Black-Box Knowledge Distillation
 
+<div align="center">
+
+<div>
+    <a href='' target='_blank'>Jing Ma</a><sup>1</sup>&emsp;
+    <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=-D5k5ioAAAAJ&view_op=list_works' target='_blank'>Xiang Xiang</a><sup>1</sup>&emsp;
+    <a href='' target='_blank'>Ke Wang</a><sup>2</sup>&emsp;
+    <a href='' target='_blank'>Yuchuan Wu</a><sup>2</sup>&emsp;
+    <a href='' target='_blank'>Yongbin Li</a><sup>2</sup>
+    
+</div>
+<div>
+<sup>1</sup>School of Artificial Intelligence and Automation, Huazhong University of Science and Technology&emsp;
+
+<sup>2</sup>Alibaba Group&emsp;
+</div>
+</div>
+
 This repository contains the code for our CVPR 2024 paper:
 
 > Aligning Logits Generatively for Principled Black-Box Knowledge Distillation
